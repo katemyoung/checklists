@@ -6,10 +6,10 @@
 - [ ] 3. When you are confident you know what the problem is, fix it
 
 ### Breakdown of step 1
-- [ ] Write down the type of error
-- [ ] Write down the file path where the error happened
-- [ ] Write down the line number of the error
-- [ ] Use the Ruby Documentation to find out what the error means
+- [ ]  Write down the type of error
+- [ ]  Write down the file path where the error happened
+- [ ]  Write down the line number of the error
+- [ ]  Use the Ruby Documentation to find out what the error means
 
 **Sources**
 Makers course
