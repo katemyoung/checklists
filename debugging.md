@@ -11,6 +11,6 @@
 - [ ] 1.3 Write down the line number of the error
 - [ ] 1.4 Use the Ruby Documentation to find out what the error means
 
-**Sources** /n
-Makers course
-https://www.youtube.com/watch?v=Bt4Q0nP9Igc 
+###### Sources
+* Makers course
+* https://www.youtube.com/watch?v=Bt4Q0nP9Igc 
